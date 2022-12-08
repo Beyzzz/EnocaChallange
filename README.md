@@ -1,4 +1,4 @@
-# Kodlama.ioDevsSpring
+# EncodaChallange
  ## Kullanılan Teknojiler
 <li>Java</li>
 <li>Java Spring Boot</li>
