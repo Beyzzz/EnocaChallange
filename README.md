@@ -6,7 +6,6 @@
 <li>PostgreSQl</li>
 <li>Swagger</li>
 </br>
-</br>
 
 ## Description:
 
