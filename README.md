@@ -1,23 +1,19 @@
 # EncodaChallange
- ## Technologies Used
-<li>Java</li>
-<li>Spring Boot</li>
-<li>JPA</li>
-<li>PostgreSQl</li>
-<li>Swagger</li>
-</br>
+## Technologies Used
+
+* Java
+* Spring Boot
+* JPA
+* PostgreSQL
+* Swagger
 
 ## Description:
 
-<p>
- A sample MVC Java Spring application that supports CRUD operations 
-<br>
+A sample MVC Java Spring application that supports CRUD operations 
 for example; 
-<li> Java: Spring, JSP. </li>
- <li>C#: WPF, ASP.NET </li>
- <li>JavaScript: Vue, React </li>
-</br>
-</p>
+* Java: Spring, JSP. 
+* C#: WPF, ASP.NET 
+* JavaScript: Vue, React  
 
 ## Requirements
 
