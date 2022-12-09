@@ -27,7 +27,8 @@ güncelleyen ve listeleyen bir proje yazdım.
 * Clone the repository `git clone https://github.com/Beyzzz/EncodaChallange.git`
 * Change directory `cd EncodaChallenge`
 * Set the environment variables for PostgreSQL connection at `src/main/resources/application.properties`
-* Create a database named "language"
+* Create a database named "language" you could run `createdb` command
+ * `createdb -U <postgresql user> language`
 * Restore the database using dump file `pg_restore -d language dump/language`
 * Build the package `./mvnw clean install`
 * Run the project `java -jar target\Challenge-0.0.1-SNAPSHOT.jar`
