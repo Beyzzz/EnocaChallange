@@ -10,10 +10,9 @@
 ## Description:
 
 A sample MVC Java Spring application that supports CRUD operations 
-for example; 
-* Java: Spring, JSP. 
-* C#: WPF, ASP.NET 
-* JavaScript: Vue, React  
+The entity relationship is as follows:
+
+![enoca_challenge_entity_diagram](https://user-images.githubusercontent.com/75632809/206754556-eb150446-34a4-495b-9047-fe3758fbd4ad.png)
 
 ## Requirements
 
